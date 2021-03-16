@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
         int i=0;
         Log.i("tg namej", "onCreate: the i output is"+i);
+
+        System.out.println("asdfasdfasdfasdf");
+        //jalabula junks
     }
 }
